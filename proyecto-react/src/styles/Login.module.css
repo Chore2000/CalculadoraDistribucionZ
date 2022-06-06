@@ -1,0 +1,43 @@
+.texto{
+    text-align: center;
+    font-family: Candara;
+    font-size: 3em;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px 3px teal;
+}
+
+.formcontenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.formInput{
+    display: flex;
+    border-radius: 10px;
+    padding: 1px 10px 1px 10px;
+}
+
+.formInput:focus{
+    outline: none;
+    box-shadow: 0 0 5px gray;
+}
+
+.formBoton{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+    height: 25px;
+    width: 70px;
+
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+.formBoton:hover{
+    background-color: green;
+    border: 2px solid green;
+    box-shadow: 0px 0px 10px grey;
+    color: white;
+}

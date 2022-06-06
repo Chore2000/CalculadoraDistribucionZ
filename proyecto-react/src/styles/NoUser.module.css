@@ -1,0 +1,12 @@
+.texto{
+    margin: 10px;
+    font-family: Candara;
+    font-size: 2.5em;
+    letter-spacing: 1px;
+}
+
+.links{
+    margin: 10px;
+    font-size: 15px;
+    float: left;
+}

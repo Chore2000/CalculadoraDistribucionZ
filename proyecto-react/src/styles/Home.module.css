@@ -1,0 +1,22 @@
+.texto{
+    font-family: Candara;
+    margin: 10px 0px 0px 10px;
+    font-size: 2em;
+    letter-spacing: 1px;
+}
+
+.titulo{
+    margin: 10px 0px 0px 0px;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.links{
+    margin: 10px;
+    font-size: 15px;
+    float: right;
+}
+
+.linkCrear{
+    float: left;
+}
